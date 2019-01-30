@@ -1,6 +1,6 @@
 # second_structure
 A context model to prediction protein secondary structure.<br>
-The *.npy files in train_context_cullpdb are date set we used. They are uploaded with lfs, so you should install git-lfs to download *npy files.<br>
+The *.npy files in train_context_cullpdb are date set we used. They are uploaded with lfs, so you should install git-lfs to download *.npy files.<br>
 The *.npy files can be loaded with python as:<br>
 ```
 import numpy as np

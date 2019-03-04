@@ -4,7 +4,7 @@ The *.npy files in train_context_cullpdb are date set we used. They are uploaded
 The *.npy files can be loaded with python as:<br>
 ```
 import numpy as np
-data=np.load('*.npy').item()
+data=np.load('filename.npy').item()
 name=data['name']
 seq=data['seq']
 pssm=data['pssm']
